@@ -1,0 +1,60 @@
+/*I Hamel Patel did this work on my own. Account for my codd and hithub is hpatel83*/
+body {
+  font-family: Georgia, Garamond, Serif;
+	background-color: #FFCC00;
+}
+.head{
+	text-align: center;
+	font-family: Verdana, 'Century Gothic', Sans-Serif;
+  color: #A4A400;
+  background-color: #F0F0F0;
+}
+.links {
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 50px;
+	width: 105px;
+  background-color: #A4A400;
+	border-right: 10px solid #003366;
+}
+.link {
+	padding: 10px;
+	display: block;
+	color: #003366;
+	text-decoration: none;
+}
+h3 {
+	text-align: left;
+}
+table {
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	margin-top: 20px;
+}
+tr {
+	border: 2px white solid;
+	padding: 5px;
+}
+.chart{
+	font-family: verdana;
+	border: none;
+	padding: 0px;
+	font-weight: bold;
+  background-color: #F0F0F0;
+	color: #A4A400;
+}
+th {
+	text-align: center;
+	border: 2px white solid;
+	padding: 5px;
+  background-color: #003366;
+  color: #FFFFFF;
+ }
+td {
+  	padding: 5px;
+  background-color: #CC9933;
+  color: #FFFFFF;
+}
+span {
+	font-weight: bold;
+}

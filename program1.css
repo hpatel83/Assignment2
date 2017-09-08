@@ -1,0 +1,29 @@
+/*I Hamel Patel did this work on my own. Account for my codd and hithub is hpatel83*/
+
+body{
+  font-family: Georgia,sans-serif,arial;
+  font-size: 24px;
+  min-width: 850px;
+  text-align: center;
+  background-color: #A8CD1B;
+}
+.links{
+  font-size: 30px;
+  table-layout: fixed;
+  text-align: center;
+  width: 1250px;
+  color: white;
+  background-color: blue;
+  border: 5px solid blue;
+}
+h1{
+  color: navy;
+}
+
+#subtitle{
+  color: navy;
+}
+a:link, a:active, a:visited {
+  color: white;
+  cursor: pointer;
+}
